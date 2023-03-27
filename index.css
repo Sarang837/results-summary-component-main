@@ -108,21 +108,49 @@ body {
 
 .summary-title {
     margin: 0 .5rem;
+    font-weight: bold;
+}
+
+.summary-item span {
+  color: hsl(0, 0%, 65%);
+}
+
+.summary-item em {
+  font-style: normal;
+  font-weight: bold;
+  color: black;
 }
 
 .summary-item[item-type="reaction"] {
     background-color: hsla(0, 100%, 67%, .1);
 }
 
+.summary-item[item-type="reaction"] .summary-title {
+  color: hsl(0, 100%, 67%);
+}
+
 .summary-item[item-type="memory"] {
     background-color: hsla(39, 100%, 56%, .1);
+}
+
+.summary-item[item-type="memory"] .summary-title {
+  color: hsl(39, 100%, 56%);
 }
 
 .summary-item[item-type="verbal"] {
     background-color: hsla(166, 100%, 37%, .1);
 }
+
+.summary-item[item-type="verbal"] .summary-title {
+  color: hsl(166, 100%, 37%);
+}
+
 .summary-item[item-type="visual"] {
     background-color: hsla(234, 85%, 45%, .1);
+}
+
+.summary-item[item-type="visual"] .summary-title{
+  color: hsl(234, 85%, 45%);
 }
 
 .button {
