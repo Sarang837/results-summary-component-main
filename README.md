@@ -20,8 +20,8 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [Solution](https://github.com/Sarang837/qr-code-component-main)
-- Live Site URL: [Live Site URL](https://sarang837.github.io/qr-code-component-main/)
+- Solution URL: [Solution](https://github.com/Sarang837/results-summary-component-main)
+- Live Site URL: [Live Site URL](https://sarang837.github.io/results-summary-component-main/)
 
 ## My process
 
